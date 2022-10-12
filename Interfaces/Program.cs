@@ -11,6 +11,7 @@ namespace Interfaces
       Student stormy = new Student("Storm", "O'Bryant", "Mississippi");
       Car nonExistent = new Car("invisi-mobile", "2022");
       stormy.Drive(nonExistent);
+      Console.WriteLine($"Hi! My name is {stormy.FirstName} {stormy.LastName}. I drive a {nonExistent.Make} {nonExistent.Model}");
     }
   }
 }
