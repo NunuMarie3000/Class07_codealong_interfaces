@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/bin/Debug/net6.0/Interfaces
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/refint/Interfaces.dll
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Class07_codealong_interfaces/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll
